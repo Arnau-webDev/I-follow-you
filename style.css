@@ -1,0 +1,18 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
+    height: 100vh;
+}
+
+#imFastAsFck {
+    background: transparent;
+    color: white;
+    border: 1px solid #fff;
+    padding: 15px;
+    border-radius: 10px;
+    transition: all .03s ease-in-out;
+    font-size: 1.2rem;
+    }
